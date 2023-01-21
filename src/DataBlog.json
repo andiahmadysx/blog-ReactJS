@@ -1,0 +1,222 @@
+[
+    {
+        "id": "x8",
+        "image": "../assets/image/13-jan-2023/firewall.png",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Pengertian dan cara kerja Firewall",
+        "description" : "Firewall adalah sebuah alat keamanan siber yang menyaring lalu lintas masuk dan keluar. Sistem Firewall bertugas mengontrol akses lalu lintas jaringan yang dianggap sah atau aman...",
+        "status" : "finish",
+        "url" : "/blog/firewall"
+    },
+    {
+        "id": "x9",
+        "image": "../assets/image/13-jan-2023/smsl.png",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Service Management System Linux",
+        "description" : "Service management system Linux adalah sebuah sistem yang digunakan untuk mengatur dan mengelola layanan yang berjalan pada sistem operasi Linux. Ini menyediakan...",
+        "status" : "finish",
+        "url" : "/blog/service-management-system-linux"
+    },
+    {
+        "id": "x10",
+        "image": "../assets/image/13-jan-2023/container.png",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Pengertian, Kelebihan dan Kekuarangan Container",
+        "description" : "Kalian pasti pernah dengar istilah container kan? Container adalah virtualisasi tingkat sistem operasi. Bisa juga disebut sebagai vitualisasi yang ringan. Karena hanya menyediakan...",
+        "status" : "finish",
+        "url" : "/blog/container-linux"
+    },
+    {
+        "id": "y0",
+        "image": "../assets/image/13-jan-2023/journal.jpg",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Journal dalam Linux",
+        "description" : "Journal Linux adalah sebuah mekanisme yang digunakan untuk mencatat log sistem dan aktivitas yang terjadi pada sistem operasi Linux. Journal menyimpan informasi tentang berbagai event seperti...",
+        "status" : "finish",
+        "url" : "/blog/journal-linux"
+    },
+    {
+        "id": "y1",
+        "image": "../assets/image/13-jan-2023/autofs.png",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Autofs",
+        "description" : "Autofs adalah sebuah sistem pemount otomatis yang digunakan untuk me-mount file system secara otomatis saat diakses dan melepas file system saat tidak digunakan. Ini memungkinkan sistem...",
+        "status" : "finish",
+        "url" : "/blog/autofs"
+    },
+    {
+        "id": "y2",
+        "image": "../assets/image/13-jan-2023/crontab.png",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Pengertian Crontab",
+        "description" : "Crontab adalah sebuah perintah yang digunakan pada sistem operasi Linux untuk menjadwalkan tugas yang akan dijalankan secara otomatis pada waktu tertentu. Tugas yang dapat dijadwalkan...",
+        "status" : "finish",
+        "url" : "/blog/crontab"
+    },
+    {
+        "id": "y3",
+        "image": "../assets/image/13-jan-2023/selinux.svg",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "SELinux",
+        "description" : "SELinux (Security Enchaced Linux) merupakan salah satu peningkatan keamanan dari sebuah sistem operasi berbasi Linux. Keamanan ini berguna untuk membedakan antara user root atau...",
+        "status" : "finish",
+        "url" : "/blog/selinux"
+    },
+    {
+        "id": "y4",
+        "image": "../assets/image/13-jan-2023/tuned.png",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Tuned Profile",
+        "description" : "Tuned profile adalah sebuah mekanisme yang digunakan untuk mengoptimalkan kinerja sistem Linux dengan menyesuaikan konfigurasi sistem dan pengaturan untuk kondisi spesifik. Profil ini...",
+        "status" : "finish",
+        "url" : "/blog/tuned-profile"
+    },
+    {
+        "id": "y5",
+        "image": "../assets/image/13-jan-2023/vdo.jpg",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Virtual Data Optimizer (VDO)",
+        "description" : "Virtual Data Optimizer (VDO) adalah sebuah perangkat lunak berbasis Linux yang dikembangkan oleh Red Hat yang memberikan kompresi data inline dan deduplikasi untuk sistem penyimpanan berbasis blok...",
+        "status" : "finish",
+        "url" : "/blog/virtual-data-optimizer"
+    },
+    {
+        "id": "y6",
+        "image": "../assets/image/13-jan-2023/swap.jpeg",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Swap Partition",
+        "description" : "Hola minna! Minna-san yang memakai Linux tentu tidak akan asing dengan namanya Swap. So, apa itu Swap ? Pentingkah membuat Swap saat menginstall Linux ? Benarkah Swap harus berukuran dua kali besar ram kita ? Disini....",
+        "status" : "finish",
+        "url" : "/blog/swap-partition"
+    },  
+    {
+        "id": "y7",
+        "image": "../assets/image/13-jan-2023/repo.webp",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Repository Linux",
+        "description" : "Repository atau  yang biasa disingkat repo merupakan sebuah alokasi ruang atau tempat untuk penyimpanan aplikasi yang memiliki jumlah ratusan atau bahkan mencapai ribuan yang bisa diakses...",
+        "status" : "finish",
+        "url" : "/blog/repository-linux"
+    },
+    {
+        "id": "y8",
+        "image": "../assets/image/13-jan-2023/ntp.png",
+        "writter": "Andi Ahmad Yusup - 13 Jan 2023",
+        "title": "Network Time Protocol (NTP)",
+        "description" : "Network Time Protocol (NTP) merupakan protokol yang digunakan untuk melakukan sinkronisasi waktu pada sistem komputer dan jaringan. Proses sinkronisasi dilakukan di dalam jalur komunikasi data menggunakan protocol...",
+        "status" : "finish",
+        "url" : "/blog/network-time-protocol"
+    },
+    {
+        "id": "y9",
+        "image": "../assets/image/linux/linux-direktori.png",
+        "writter": "Andi Ahmad Yusup - 6 Jan 2023",
+        "title": "Struktur direktori Linux",
+        "description" : "Eyoyoyo what's up minna-san! Apakah minna-san merupakan user yang baru saja keluar melompati jendela dan berpindah pada pinguin? Jika ya, maka minna-san akan dibingungkan dengan struktur file sistem yang...",
+        "status" : "finish",
+        "url" : "/blog/struktur-direktori-linux"
+    },
+    {
+        "id": "y10",
+        "image": "../assets/image/linux/linux-logo-sistem.png",
+        "writter": "Andi Ahmad Yusup - 3 Jan 2023",
+        "title": "Perintah untuk mengetahui informasi sistem pada Linux",
+        "description" : "Hola! Hai minna ketemu lagi nih sama mimin, gimana kabar kalian? Genki desu ka? Harus baik baik aja yea!. Btw, sekarang mimin mau bahas perintah linux mengenai system, mulai dari cek informasiya... ",
+         "status" : "finish",
+        "url" : "/blog/perintah-dasar-linux-sistem"
+    },
+    {
+        "id": "z0",
+        "image": "../assets/image/linux/linux-logo.jpg",
+        "writter": "Andi Ahmad Yusup - 31 Des 2022",
+        "title": "Perintah dasar Linux",
+        "description" : "Halo temen - temen, kali ini mimin mau bahas perintah dasar linux lohh. Tapii, sebelum kita masuk ke pembahasan perintah dasar linux, temen temen udah tau belum apa itu linux? Jadi, Secara sederhana... ",
+         "status" : "finish",
+        "url" : "/blog/perintah-dasar-linux"
+    },
+    {
+        "id": "z1",
+        "image": "../assets/image/linux/linux-pc.jpg",
+        "writter": "Andi Ahmad Yusup - 21 Des 2022",
+        "title": "Sejarah Linux",
+        "description" : "Linux adalah nama yang diberikan pada sistem operasi komputer bertipe Unix dengan logonya berupa seekor burung Pinguin. Linux mempunyai kemampuan MultiTasking, Multi User, dan Memory Management yang baik...",
+        "status" : "finish",
+        "url" : "/blog/sejarah-linux"
+    },
+    {
+        "id": "z2 ",
+        "image": "../assets/image/merakit-pc/pc.jpg",
+        "writter": "Andi Ahmad Yusup - 14 Des 2022",
+        "title": "Langkah - Langkah Merakit PC",
+        "description" : "Kalian pengin rakit PC yang bisa digunain buat main GTA V tapi belum tahu gimana caranya? Tenang aja guys, berikut adalah langkah - langkah merakit PC dengan dana minimalis dan tentunya bisa digunakan untuk...",
+        "status" : "finish",
+        "url" : "/blog/langkah-merakit-pc"
+    },
+    {
+        "id": "z3",
+        "image": "../assets/image/8-des-2022/thumbnail.jpg",
+        "writter": "Andi Ahmad Yusup - 8 Des 2022",
+        "title": "17 Tokoh Inspiraif Dunia",
+        "description" : " Memang, setiap orang di dunia pasti akan mengalami kegagalan di beberapa titik. Namun kegagalan bukanlah akhir dari segalanya. Perlu kita ketahui kegagalan merupakan awal dari kesuksesan....",
+        "status" : "finish",
+        "url" : "/blog/biografi"
+    },
+    {
+        "id": "z4",
+        "image": "../assets/image/6-des-2022/teknologi-informasi.webp",
+        "writter": "Andi Ahmad Yusup - 6 Des 2022",
+        "title": "Pengenalan Teknologi Informasi Umum",
+        "description" : "  Kehidupan kita tidak terlepas dari yang namanya teknologi. Laptop dan HP merupakan salah satu bentuk teknologi tersebut. Laptop dan HP adalah sebuah Hardware. Agar Laptop dan HP...",
+        "status" : "finish",
+        "url" : "/blog/pengenalan-teknologi-informasi"
+    },
+    {
+        "id": "z5",
+        "image": "../assets/image/1-des-2022/komputer.jpg",
+        "writter": "Andi Ahmad Yusup - 1 Des 2022",
+        "title": "Sejarah Perkembangan Komputer",
+        "description" : "Seperti yang kita ketahui Komputer telah hadir dan menjadi bagian dari hidup kita. Nah, dengan berbagai manfaat yang ditawarkannya, komputer kemudian menjadi...",
+        "status" : "finish",
+        "url" : "/blog/sejarah-perkembangan-komputer"
+    },
+    {
+        "id": "z6",
+        "image": "../assets/image/1-des-2022/tools-pendukung.webp",
+        "writter": "Andi Ahmad Yusup - 1 Des 2022",
+        "title": "Tools dan Website Pendukung untuk Programmer",
+        "description" : "Mungkin sebagian dari kamu belum terlalu mengetahui beberapa tools yang dapat menunjang pekerjaan dari seorang programmer...",
+        "status" : "ongoing"
+    },
+    {
+        "id": "z7",    
+        "image": "../assets/image/1-des-2022/next-js.jpg",
+        "writter": "Andi Ahmad Yusup - 1 Des 2022",
+        "title": "Tips Memilih antara React js (CSR) atau Next js (SSR)",
+        "description" : "Next.js adalah framework untuk React.js yang cocok untuk membuat website dengan berbagai fitur unggulan seperti Routing Pages dan Fast Refresh. Proses membangun...",
+        "status" : "ongoing"
+    },
+    {
+        "id": "z8",
+        "image": "../assets/image/1-des-2022/tech-stack.png",
+        "writter": "Andi Ahmad Yusup - 1 Des 2022",
+        "title": "Tech Stack untuk Full Stack Developer",
+        "description" : "Tech Stack adalah kombinasi teknologi yang digunakan perusahaan untuk membangun dan menjalankan aplikasi atau proyek...",
+        "status" : "ongoing"
+    },
+    {
+        "id": "z9",
+        "image": "../assets/image/1-des-2022/soft-skill.jpg",
+        "writter": "Andi Ahmad Yusup - 1 Des 2022",
+        "title": "Soft Skill yang harus dimiliki Programmer",
+        "description" : "Programmer adalah salah satu profesi yang banyak diminati anak muda terutama anak muda yang berjurusan komputer banyak yang ingin menjadi programmer setelah mereka lulus...",
+        "status" : "ongoing"
+    },
+    {   
+        "id": "z10",
+        "image": "../assets/image/1-des-2022/error.jpg",
+        "writter": "Andi Ahmad Yusup - 1 Des 2022",
+        "title": "5 Tips Menghadapi Error Saat Ngoding",
+        "description" : "Setelah menulis beberapa baris kode, kemudian mulai menjalankannya dan BOOM! notifikasi error muncul. Panik gak? Panik gak? Panik lah masa nggak...",
+        "status" : "ongoing"
+    }
+]
